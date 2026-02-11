@@ -47,12 +47,12 @@ Architecture:
 **Test Accuracy:** 70.21%
 
 #### Baseline Training Accuracy & Loss
-*(Insert graph image here)*  
+
 <img width="700" height="470" alt="download" src="https://github.com/user-attachments/assets/bf9e7424-3bcd-4547-a7ec-f56dba8471d5" />
 
 
 #### Baseline Loss Curve
-*(Insert graph image here)*  
+  
 <img width="691" height="470" alt="download" src="https://github.com/user-attachments/assets/b05e7647-3dbf-4473-b4b4-222e27799d92" />
 
 
@@ -69,7 +69,11 @@ Enhancements applied:
 **Test Accuracy:** 83.42%
 
 #### Improved Model Accuracy & Loss
-*(Insert graph image here)*  
+ 
+![47477964-1e22-41c5-9301-2cd075e26ceb](https://github.com/user-attachments/assets/e859e530-81e2-488f-a9a2-1282471682e8)
+
+![59f72a7a-3817-45d4-b8ed-0496894d5417](https://github.com/user-attachments/assets/6cd694b9-20b5-48c3-aaa8-f705d38be81c)
+
 
 
 ---
@@ -81,16 +85,17 @@ Enhancements applied:
 | Baseline CNN | 70.58% |
 | Improved CNN | 83.92% |
 
-Overall improvement: **+13.7%**
+Overall improvement: **+13.3%**
 
 ---
 
 ## Confusion Matrix
 The confusion matrix illustrates class‑wise prediction performance.
 
-*(Insert confusion matrix image here)*  
 
+![6e634fde-4679-4cef-9d3d-ccff4690cb69](https://github.com/user-attachments/assets/7cc1b1ed-5c6e-4148-bffe-17b9c3af7d8a)
 
+ 
 ---
 
 ## Key Observations
